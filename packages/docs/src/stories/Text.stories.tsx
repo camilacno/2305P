@@ -2,7 +2,7 @@ import type { StoryObj, Meta } from '@storybook/react' // tipagens do ts
 import { Text, TextProps } from '@ignite-ui/react'
 
 export default {
-  title: 'Typography/text',
+  title: 'Typography/Text',
   component: Text,
 
   args: {
