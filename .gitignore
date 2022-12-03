@@ -1,3 +1,7 @@
+node_modules
+dist
+.turbo
+
 # Based on https://github.com/github/gitignore/blob/master/Node.gitignore
 
 # Logs
