@@ -22,7 +22,7 @@ src="https://img.shields.io/badge/git-grey?labelColor=gray&logo=git&logoColor=wh
 
 ## About the Application
 
-In this module we created a Design System, understanding how to document React components and using several tools that will help from the implementation of the Design System to its publication, such as Storybook, changesets and much more.
+In this project we created a Design System, understanding how to document React components and using several tools that will help from the implementation of the Design System to its publication, such as Storybook, changesets and much more.
 We also use the concept of monorepo in this project.
 
 ###### *Go to <a href="#content">Content</a>*.
