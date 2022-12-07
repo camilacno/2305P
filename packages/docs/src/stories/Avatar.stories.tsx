@@ -4,10 +4,16 @@ import { Avatar, AvatarProps } from '@ignite-ui/react'
 export default {
   title: 'Data display/Avatar',
   component: Avatar,
-
   args: {
     src: 'https://github.com/camilacno.png',
     alt: 'Camila Nepomuceno',
+  },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
   },
 } as Meta<AvatarProps>
 
