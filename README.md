@@ -71,11 +71,11 @@ Tsup facilitates creating all typescript files (d.ts)
 -   [x] Text
 -   [x] Box
 -   [x] Button
--   [ ] TextInput
--   [ ] TextArea
--   [ ] Heading
--   [ ] Checkbox
--   [ ] MultiStep
+-   [x] TextInput
+-   [x] TextArea
+-   [x] Heading
+-   [x] Checkbox
+-   [x] MultiStep
 
 
 ###### *Go to <a href="#content">Content</a>*.
