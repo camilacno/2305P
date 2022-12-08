@@ -1,5 +1,11 @@
 # @camilacno-ignite-ui/tokens
 
+## 4.0.0
+
+### Major Changes
+
+- Add test color
+
 ## 3.0.0
 
 ### Major Changes
