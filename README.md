@@ -1,4 +1,3 @@
-
 <h1 align="center">  
 Design System
 </h1>
@@ -19,38 +18,36 @@ src="https://img.shields.io/badge/git-grey?labelColor=gray&logo=git&logoColor=wh
     <img src="https://img.shields.io/badge/-camilacno-007ACC?logo=linkedin&logoColor=white&labelColor=007ACC" alt="Developer LinkedIn" />
 </p>
 
-
 ## About the Application
 
 In this project we created a Design System, understanding how to document React components and using several tools that will help from the implementation of the Design System to its publication, such as Storybook, changesets and much more.
 We also use the concept of monorepo in this project.
 
-###### *Go to <a href="#content">Content</a>*.
+###### _Go to <a href="#content">Content</a>_.
 
 ## Content
 
- - <a href="#about-the-application">About the Application</a>
- - <a href="#main-libs">Main libs</a>
- - <a href="#project-layouts">Project layouts</a>
- - <a href="#components">Components</a>
- - <a href="#how-to-run">How to run</a>
- - <a href="#license">License</a>
-  
+- <a href="#about-the-application">About the Application</a>
+- <a href="#main-libs">Main libs</a>
+- <a href="#project-layouts">Project layouts</a>
+- <a href="#components">Components</a>
+- <a href="#how-to-run">How to run</a>
+- <a href="#license">License</a>
+
 ## Main Libs
 
-[Stitches](https://stitches.dev/) | [Storybook](https://storybook.js.org/) | [Turbo](https://www.npmjs.com/package/turbo?activeTab=versions) | [Radix](https://www.radix-ui.com/) 
+[Stitches](https://stitches.dev/) | [Storybook](https://storybook.js.org/) | [Turbo](https://www.npmjs.com/package/turbo?activeTab=versions) | [Radix](https://www.radix-ui.com/)
 
 [ESLint](https://eslint.org/) | [Prettier](https://prettier.io/)
 
-[TSUP]([https://github.com/egoist/tsup](https://github.com/egoist/tsup)) 
+[TSUP](<[https://github.com/egoist/tsup](https://github.com/egoist/tsup)>)
 Converts our code in a js package that can be loaded by other apps (Bundle your TypeScript library with no config). It makes it easier to convert our package into both js and esm to be used by legacy and newer apps. If I used only the tsc to convert the ts package to js, I could limit who would be able to use this package.
 
 Tsup facilitates creating all typescript files (d.ts)
-	
-###### *Go to <a href="#content">Content</a>*.
+
+###### _Go to <a href="#content">Content</a>_.
 
 ## Project Layouts
-
 
 <img width="621" alt="image" src="https://user-images.githubusercontent.com/47459889/205515931-8c42c9a2-9354-43e2-b89b-2351ca20c27a.png">
 
@@ -67,43 +64,56 @@ Tsup facilitates creating all typescript files (d.ts)
 ###### *Go to <a href="#content">Content</a>*.
 
 ## Components
--   [x] Avatar
--   [x] Text
--   [x] Box
--   [x] Button
--   [x] TextInput
--   [x] TextArea
--   [x] Heading
--   [x] Checkbox
--   [x] MultiStep
 
+- [x] Avatar
+- [x] Text
+- [x] Box
+- [x] Button
+- [x] TextInput
+- [x] TextArea
+- [x] Heading
+- [x] Checkbox
+- [x] MultiStep
 
-###### *Go to <a href="#content">Content</a>*.
+- **[Link published storybook](https://camilacno.github.io/2305P/?path=/story/home--page)**
+
+Packages pubished on NPM:
+@camilacno-ignite-ui/tokens
+camilacno-ignite-ui/react
+camilacno-ignite-ui/docs
+
+###### _Go to <a href="#content">Content</a>_.
 
 ## How to run
 
 ### Requirements
-- **[Node.js](https://nodejs.org/en/)**  
-- **[Git](https://git-scm.com/)**  
-- **[NPM](https://www.npmjs.com/)**  or  **[Yarn](https://yarnpkg.com/)**.
+
+- **[Node.js](https://nodejs.org/en/)**
+- **[Git](https://git-scm.com/)**
+- **[NPM](https://www.npmjs.com/)** or **[Yarn](https://yarnpkg.com/)**.
 
 ##### Cloning
+
 ```bash
 $ git clone https://github.com/camilacno/2305-design-system.git
 ```
- ##### Installing dependencies
-   ```bash
+
+##### Installing dependencies
+
+```bash
 $ yarn # ou npm install
 ```
-  
- ##### Start application
- ```bash
+
+##### Start application
+
+```bash
 $ yarn dev # ou npm run dev
 ```
 
-###### *Go to <a href="#content">Content</a>*.
+###### _Go to <a href="#content">Content</a>_.
 
 ## License
 
-This project is under the MIT license. Go to file  [LICENSE](https://github.com/camilacno/2305-design-system/blob/master/LICENSE)  for further information.
-###### *Go to <a href="#content">Content</a>*.
+This project is under the MIT license. Go to file [LICENSE](https://github.com/camilacno/2305-design-system/blob/master/LICENSE) for further information.
+
+###### _Go to <a href="#content">Content</a>_.
