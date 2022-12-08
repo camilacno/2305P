@@ -2,5 +2,5 @@
   "name": "@camilacno-ignite-ui/ts-config",
   "version": "3.0.0",
   "license": "MIT",
-  "private": true
+  "private": false
 }
