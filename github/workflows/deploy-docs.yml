@@ -22,7 +22,7 @@ jobs:
       - run: npm run build
         env:
           TURBO_TOKEN: HIFAMRfc115wnYgcfQwsATK9
-          TURBO_TEAM: camilacno-ignite-ui
+          TURBO_TEAM: camilacno-ignite
 
       - name: Deploy storybook
         working-directory: ./packages/docs
