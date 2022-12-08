@@ -1,4 +1,4 @@
-# @ignite-ui/tokens
+# @camilacno-ignite-ui/tokens
 
 ## 3.0.0
 

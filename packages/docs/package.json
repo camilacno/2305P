@@ -27,9 +27,9 @@
     "vite": "^3.2.4"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@camilacno-ignite-ui/eslint-config": "*",
+    "@camilacno-ignite-ui/react": "*",
+    "@camilacno-ignite-ui/tokens": "*",
     "@storybook/addon-a11y": "^6.5.14",
     "@storybook/ui": "^6.5.12",
     "phosphor-react": "^1.4.1",

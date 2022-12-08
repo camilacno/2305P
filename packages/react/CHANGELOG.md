@@ -1,4 +1,4 @@
-# @ignite-ui/react
+# @camilacno-ignite-ui/react
 
 ## 4.0.0
 

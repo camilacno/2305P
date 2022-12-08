@@ -1,4 +1,4 @@
-# @ignite-ui/ts-config
+# @camilacno-ignite-ui/ts-config
 
 ## 3.0.0
 

@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react' // tipagens do ts
-import { Text, TextProps } from '@ignite-ui/react'
+import { Text, TextProps } from '@camilacno-ignite-ui/react'
 
 export default {
   title: 'Typography/Text',

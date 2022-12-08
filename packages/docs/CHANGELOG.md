@@ -1,4 +1,4 @@
-# @ignite-ui/docs
+# @camilacno-ignite-ui/docs
 
 ## 3.0.0
 
@@ -15,8 +15,8 @@
 - Updated dependencies
 - Updated dependencies
 - Updated dependencies
-  - @ignite-ui/react@3.0.0
-  - @ignite-ui/tokens@3.0.0
+  - @camilacno-ignite-ui/react@3.0.0
+  - @camilacno-ignite-ui/tokens@3.0.0
 
 ## 2.0.0
 
@@ -27,5 +27,5 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @ignite-ui/react@2.0.0
-  - @ignite-ui/tokens@2.0.0
+  - @camilacno-ignite-ui/react@2.0.0
+  - @camilacno-ignite-ui/tokens@2.0.0

@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react' // tipagens do ts
-import { Box, Text, TextArea, TextAreaProps } from '@ignite-ui/react'
+import { Box, Text, TextArea, TextAreaProps } from '@camilacno-ignite-ui/react'
 
 export default {
   title: 'Form/Textarea',

@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react' // tipagens do ts
-import { Box, BoxProps, Text } from '@ignite-ui/react'
+import { Box, BoxProps, Text } from '@camilacno-ignite-ui/react'
 
 export default {
   title: 'Surfaces/Box',

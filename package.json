@@ -12,10 +12,5 @@
   "devDependencies": {
     "@changesets/cli": "^2.25.2",
     "turbo": "^1.5.5"
-  },
-  "dependencies": {
-    "@ignite-ui/docs": "file:packages/docs",
-    "@ignite-ui/react": "file:packages/react",
-    "@ignite-ui/tokens": "file:packages/tokens"
   }
 }
